@@ -1,0 +1,17 @@
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\FullSailCasino.deps.json
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\FullSailCasino.dll
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\FullSailCasino.pdb
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\BlackjackClassLibrary.dll
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\PG2Input.dll
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\BlackjackClassLibrary.pdb
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\bin\Release\net6.0\PG2Input.pdb
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.csproj.CopyComplete
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.dll
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\refint\FullSailCasino.dll
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\FullSailCasino.pdb
+C:\Users\Sergio\Desktop\pg2\Week4\Lab4\FullSailCasino\obj\Release\net6.0\ref\FullSailCasino.dll
